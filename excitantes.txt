@@ -1,0 +1,43 @@
+<html>
+    <head>
+         <TITLE> Mi primera Pagina wed</TITLE>
+     </head>
+     <Body bgcolor="pink">
+ 
+         <h1> <center> <font color="Blue"> "EXCITANTES" </font> </h1>
+
+         <p> <center> <h2> Las drogas estimulantes son uno de los grupos más comunes de sustancias que se consumen con el objetivo de producir euforia y despertar sensaciones de alerta y vitalidad, aunque muchas veces su uso indebido puede tener resultados catastróficos. </p> </h2>
+ 
+       <div>
+     <ul>
+   <h1> <font color="red"> ¨CAFEÍNA¨ </font> </li> </h1> <p> <h2> La cafeína es una droga psicoactiva, la cual tiene efectos (aunque leves) que causan disociación y estimulación. Científicamente hablando, se trata de un alcaloide ubicado dentro del grupo de “xantinas” y el descubrimiento de la sustancia fue hecho por Friedrich Runge, un químico de origen alemán que observó cómo ésta sustancia estaba presente en el café. </p> </h2>
+   <h1> <font color="red">EFECTOS QUE CAUSA LA CAFEÍNA </font>  </li> </h1> <p> <h2>  La cafeína tiene muchos efectos sobre el metabolismo de su cuerpo.<br> La cafeína alcanza su nivel máximo en la sangre dentro de una hora después de consumirla. Usted puede seguir sintiendo los efectos de la cafeína por cuatro a seis horas. </p> </h2>
+   <h2> <li> Estimula el sistema nervioso central, lo que puede hacer que usted se sienta más despierto y le dará un impulso de energía. </h2></li><b>
+   <h2> <li>Es un diurético, lo que significa que ayuda al cuerpo a deshacerse de agua y sal extra al orinar más.</h2></li><b>
+   <h2> <li> Aumenta la liberación de ácido en el estómago, lo que a veces conduce a malestar estomacal o acidez.</h2></li><b>
+   <h2> <li> Puede interferir con la absorción de calcio en el cuerpo.</h2></li><b>
+   <h2> <li> Aumenta la presión arterial.</h2></li><b>
+   <h2> <li> Inquietud y temblores.</h2></li><b>
+   <h2> <li> Insomnio.</h2></li><b>
+   <h2> <li> Dolores de cabeza.</h2></li><b>
+   <h2> <li> Mareos.</h2><b>
+   <h2> <li> Ritmo cardíaco rápido.</h2></li><b>
+   <h2> <li> Deshidratación.</h2></li><b>
+   <h2> <li> Ansiedad.</h2></li><b>
+   <h2> <li> Dependencia, por lo que necesita tomar más de ella para obtener el mismo efecto.</h2></li><b>
+  
+   <h2> <center> <font color="red"> ¨TABACO¨ </font> </li> </h1> <p> <h2> Al igual que la marihuana, este tipo de droga proviene del procesamiento de una planta llamada Nicotina y se da principalmente en el continente americano. Se puede consumir por vía oral o por inhalación, siendo esta última la forma más popular de ingerirla utilizando un cigarrillo para tal fin.</h2>
+   <h2> <font color="red"> EFECTOS QUE CAUSA EL TABACO </font> </h1>
+   <h2> <li>Bronquitis crónica.</h2></li><b>
+   <h2> <li>Enfisema pulmonar.</h2></li><b>
+   <h2> <li>Cáncer de pulmón.</h2></li><b>
+   <h2> <li>Hipertensión arterial.</h2></li><b>
+   <h2> <li>Enfermedad coronaria (angina o infarto de miocardio).</h2></li><b>
+   <h2> <li>Accidentes cerebrovasculares (trombosis, hemorragias o embolias).</h2></li><b>
+   <h2> <li>Úlcera gastrointestinal.</h2></li><b>
+   <h2> <li>Gastritis crónica.</h2></li><b>
+   <h2> <li>Cáncer de laringe.</h2></li><b>
+   <h2> <li>Cáncer bucofaríngeo.</h2></li><b>
+   <h2> <li>Cáncer renal o de vías urinarias.</h2></li><b>
+   <h2> <li>Impotencia sexual en el varón.</h2></li><b>
+<h2> <a class="link" href="file:///F:/LUCERO/index.html"> volver </a> </h2> 

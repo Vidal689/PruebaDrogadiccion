@@ -1,0 +1,40 @@
+ <html>
+    <head>
+         <TITLE> Mi primera Pagina wed</TITLE>
+     </head>
+     <Body bgcolor="Orange">
+
+         <h1> <center> <font color="Blue"> "EUFORICAS" </font> </h1>
+
+         <p> <center> <h2> Son sustancias que producen euforia, aumentan el estado de alerta y la actividad motriz, y hacen. <br>
+             que disminuya la sensación subjativa de fatiga y el hambre. </center></h2>
+        
+       <div>
+     <ul>
+   <h1> <font color="red"> ¨COCAÍNA¨ </font> </li> </h1> <p> <h2>La cocaína es una droga muy adictiva que se elabora a partir de las hojas de coca, una planta que crece en América del Sur. Algunas personas usan esta sustancia ilegal para drogarse. En casos raros, también se utiliza como medicamento recetado para anestesia durante ciertas cirugías.
+   como droga ilegal, la cocaína suele ser un polvo cristalino fino y blanco. A veces, los traficantes la mezclan con maicena, talco o harina para que parezca que tienen más cocaína. De esa manera pueden ganar más dinero. También pueden mezclarla con otras drogas ilegales. Otra forma de droga es el crack. La cocaína crack se ha calentado para convertirla en cristal de roca.</h2>
+   <center> <img src="coca.JPG"> </center>
+   <h1> <font color="green"> EFECTOS QUE CAUSA LA COCAÍNA  </font>  </li> </h1> <p> <h2> Los efectos de la cocaína pueden variar según la dosis, la frecuencia de uso y la vía de administración. A continuación, te proporciono información sobre los efectos de la cocaína tanto a corto como a largo plazo:</h2><br>
+   <h2> <li> La persona se vuelve más ansiosa.</h2>
+   <h2> <li> Hay pérdida de apetito y por eso se ve desnutrido.</h2> <b>
+   <h2> <li> Está cada vez más irritable e inquieto.</h2> <b>
+   <h2> <li> De igual forma hay paranoia, sin embargo, esta es peor a la del principio, la persona refiere tener alucinaciones, además de tener efectos psicológicos mayores.</h2> <b>
+   <h2> <li> Hay pérdida de olfato.</h2> <b>
+   <h2> <li> Dificultad al tragar.</h2> <b>
+   <h2> <li> Hemorragias nasales e irritación en el tabique nasal que pueden en los peores casos destruir el cartílago de la nariz y alterar su forma.</h2> <b>
+   <h2> <li> También presenta los espasmos musculares y convulsiones con más repetición.</h2> <b>
+   <h2> <li> El aumento de la frecuencia cardíaca puede conducir a un ataque cardíaco y un ACV (accidente cerebro vascular).</h2> <b>
+   <h2> <li> La persona adicta corre con el riesgo de contraer enfermedades como hepatitis o VIH/SIDA si comparte agujas al momento de inyectarse la droga.</h2> <b>
+   <h2> <li> En casos más graves puede producir la muerte de la persona.</h2> <b>
+   <h1> <font color="red"> ¨OPIO¨ </font> </li> </h1>
+   <p> <h2> El opio es una mezcla compleja de sustancias que se extrae de las cápsulas de la adormidera (Papaver somniferum), que contiene la droga narcótica y analgésica llamada morfina y otros alcaloides.</h2>
+    <center> <img src="opio.JPG"> </center>
+   <h1> <font color="green"> EFECTOS QUE CAUSA EL OPIO  </font> </li> </h1> <p> <h1>Los principales efectos del opio en el cuerpo son:</h1>
+   <h2> <li>Sensación de relajación.</h2> <b>
+   <h2> <li>Somnolencia.</h2> <b>
+   <h2> <li>Acción analgésica.</h2> <b>
+   <h2> <li>Disminuye el reflejo de la tos.</h2> <b>
+   <h2> <li>Alucinaciones leves.</h2> <b>
+   <h2> <li>Náuseas.</h2> <b>
+   <h2> <li>Estreñimiento.</h2> <b>
+<h2> <a class="link" href="file:///F:/LUCERO/index.html"> volver </a> </h2>

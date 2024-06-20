@@ -1,0 +1,26 @@
+<html>
+   <head>
+       <TITLE> Mi Primera Pagina Wed</TITLE> 
+   </head>
+   <Body bgcolor="Pink">
+
+       <h1> <center> <font color="black"> "FANTASTICAS" </font> </h1>
+
+       <p> <center> <h2> Las principales clases de alucinógenos son la <br> dietilamida del ácido lisérgico (LSD), la fenciclidina (PCP), las anfetaminas alucinógenas, la mescalina y los hongos del género Psilocybe.
+
+       <h1> <center> <font color="black"> ¿QUE SON LAS DROGAS FANTASTICAS? </font> </h1> <p> <center> <h2> Es un psicotrópico cuya principal acción consiste en alterar la cognición y la percepción de la mente, dando lugar a percepciones no ordinarias, generalmente consideradas ilusiones, alucinaciones, etc. <br> Los alucinógenos son psicotrópicos que quedan clasificados como psicodislepsicos entendido es como la perturbación mental provocada por ciertas sustancias que producen una distorsión delirante en la apreciación de la realidad. <br> Son por lo tanto, capaces de provocar cambios en las sensaciones, en el pensamiento, en la auto-conciencia y en la emoción. </h2> </p>
+
+       <center> <img src="droga.JPG"> </center>
+       <h1> <center> <font color="black"> "Tipos de Drogas Fantasticas" </font> </h1>
+
+       <p> <center> <h2> <font color="black"> <div> <ul> <li> -LSD: </font> Es una de las sustancias químicas más poderosas que alteran la mente. Es un material claro o blanco sin olor hecho de ácido lisérgico, <br> que se encuentra en un hongo que crece en el centeno y otros cereales. El LSD tiene muchos otros nombres de calle, incluyendo acido. </p> </h2> </li>
+       <center> <img src="lsd.JPG"> </center>
+       <p> <center> <h2> <font color="black"> <div> <ul> <li> -Psilocibina (u hongos alucinógenos): </font> Proviene de ciertos tipos de hongos que se encuentran en regiones tropicales y subtropicales de Sudamérica, México y los Estados Unidos, <br> Algunos nombres comunes para la psilocibina incluyen little smoke (humito), magic mushrooms (hongos mágicos) y shrooms (hongos). </p> </h2> </li>
+       <center> <img src="hongos.JPG"> </center>
+       <p> <center> <h2> <font color="black"> <div> <ul> <li> -Peyote: </font> Es un cactus pequeño y sin espinas cuyo ingrediente principal es la mescalina. El peyote también puede ser sintético. Los nombres comunes del peyote son buttons (botones), cactus y mesc (mesca). </p> </h2> </li>
+       <center> <img src="peyote.JPG"> </center>
+       <p> <center> <h2> <font color="black"> <div> <ul> <li> -La DMT (N,N-dimetiltriptamina): </font> Es una poderosa sustancia química que se encuentra naturalmente en algunas plantas amazónicas, <br> La ayahuasca es un té hecho de estas plantas, y cuando se toma en esta forma también se conoce como hoasca, aya y yagé. La DMT también se puede fabricar en laboratorio (DMT sintética), y en este caso suele tener la forma de un polvo cristalino blanco que se fuma. Un nombre popular para la DMT sintética es Dimitri. </p> </h2> </li>
+       <center> <img src="La DMT.JPG"> </center>
+       <p> <center> <h2> <font color="black"> <div> <ul> <li> -El 251-NBOMe: </font> Es un alucinógeno sintético con similitudes tanto con el LSD como con la MDMA, pero mucho más potente. Creado para su uso en la investigación del cerebro, cuando se vende en la calle a veces se lo llama N Bomb (Bomba N) o 251. </p> </h2> </li> 
+       <center> <img src="El 251-NBOMe.JPG"> </center>
+<h2> <a class="link" href="file:///F:/LUCERO/index.html"> volver </a> </h2>
